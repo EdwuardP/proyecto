@@ -1,2 +1,2 @@
-print("mi tercer commit optimizado")
-print("optimizado")
+print("mi tercer commit conflict")
+print("conflict")
